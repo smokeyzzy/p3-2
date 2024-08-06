@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "quem seria o seu namorado?",
+        enunciado: "qualfruta voce prefere??",
         alternativas: [
             {
                 texto: "Maçã",
@@ -19,28 +19,28 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Pergunta 2",
+        enunciado: "qual carro vc usaria? hahsahsa",
         alternativas: [
             {
-                texto: "Texto 2.1",
-                afirmacao: "Afirmação 2.1"
+                texto: "volkisvagen",
+                afirmacao: "o justien biber"
             },
             {
-                texto: "Texto 2.2",
-                afirmacao: "Afirmação 2.2"
+                texto: "bmw",
+                afirmacao: "o junkgook do bts"
             }
         ]
     },
     {
-        enunciado: "Pergunta 3",
+        enunciado: "quantas vezes vc come por dia",
         alternativas: [
             {
-                texto: "Texto 3.1",
-                afirmacao: "Afirmação 3.1"
+                texto: "2+",
+                afirmacao: "o justin biber"
             },
             {
-                texto: "Texto 3.2",
-                afirmacao: "Afirmação 3.2"
+                texto: "3+",
+                afirmacao: "o jungkook do bts"
             }
         ]
     },
