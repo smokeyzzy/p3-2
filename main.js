@@ -10,24 +10,24 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Maçã",
-                afirmacao: "Justin bieber"
+                afirmacao: "o"
             },
             {
                 texto: "Uva",
-                afirmacao: "o Junkgook do bts"
+                afirmacao: "o"
             }
         ]
     },
     {
-        enunciado: "qual carro vc usaria? hahsahsa",
+        enunciado: "qual carro vc usaria?",
         alternativas: [
             {
                 texto: "volkisvagen",
-                afirmacao: "o justien biber"
+                afirmacao: "seu"
             },
             {
                 texto: "bmw",
-                afirmacao: "o junkgook do bts"
+                afirmacao: "seu"
             }
         ]
     },
@@ -36,37 +36,37 @@ const perguntas = [
         alternativas: [
             {
                 texto: "2+",
-                afirmacao: "o justin biber"
+                afirmacao: "namorado"
             },
             {
-                texto: "3+",
-                afirmacao: "o jungkook do bts"
+                texto: "5+",
+                afirmacao: "namorado"
             }
         ]
     },
     {
-        enunciado: "Pergunta 4",
+        enunciado: "em qual idade você está?",
         alternativas: [
             {
-                texto: "Texto 4.1",
-                afirmacao: "Afirmação 4.1"
+                texto: "adulto",
+                afirmacao: "seria"
             },
             {
-                texto: "Texto 4.2",
-                afirmacao: "Afirmação 4.2"
+                texto: "jovem",
+                afirmacao: "seria"
             }
         ]
     },
     {
-        enunciado: "Pergunta 5",
+        enunciado: "vc prefere asiaticos ou americanos?",
         alternativas: [
             {
-                texto: "Texto 5.1",
-                afirmacao: "Afirmação 5.1"
+                texto: "asiáticos",
+                afirmacao: " o jungkook do bts"
             },
             {
-                texto: "Texto 5.2",
-                afirmacao: "Afirmação 5.2"
+                texto: "americanos",
+                afirmacao: " o justien bieber"
             }
         ]
     },
